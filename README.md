@@ -1,1 +1,3 @@
 Readme exemplo
+
+lembrei do comando: git status
